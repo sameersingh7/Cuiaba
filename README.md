@@ -1,4 +1,4 @@
-#OWASP Static Website for Chapters
+# OWASP Static Website for Chapters
 This static generator projects it's created by [Gabriel Pedro](http://github.com/gpedro) to use in you Chapter (Cuiabá, Mato Grosso - Brasil), but talking with Dennis Groves, the idea was well accepted in a way that perhaps other chapters can use. The positive points of the project are:
 * Lightweight
 * Easy Customization
